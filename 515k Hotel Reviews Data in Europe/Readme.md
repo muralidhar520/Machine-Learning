@@ -1,4 +1,11 @@
-This dataset contains 515,000 customer reviews and scoring of 1493 Luxury Hotels across Europe.
+Acknowledgements:
+
+The data was scraped from Booking.com. All data in the file is publicly available to everyone already. Data is originally owned by Booking.com. Please contact me through my profile if you want to use this dataset somewhere else.
+
+Data Context
+
+This dataset contains 515,000 customer reviews and scoring of 1493 luxury hotels across Europe. Meanwhile, the geographical location of hotels are also provided for further analysis
+
 
 The csv file contains 17 fields. The description of each field is as below:
 
@@ -38,4 +45,5 @@ indicates how many valid scores without review in there.
 lat: Latitude of the hotel
 
 lng: longtitude of the hotel
+
 Meanwhile, the geographical location of hotels are also provided for further analysis.
